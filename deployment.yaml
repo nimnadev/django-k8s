@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: django-app
-          image: nimnajudy/django-app:v7
+          image: nimnajudy/django-app:v8
           ports:
             - containerPort: 8000
